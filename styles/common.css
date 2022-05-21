@@ -96,7 +96,7 @@ nav div {
 .logo {
     grid-column: 1;
     margin-left: 8em;
-    margin-right: calc(height - width);
+    margin-right: calc(-35px);
     
     background: url('/media/initials.svg');
     background-size: contain;
